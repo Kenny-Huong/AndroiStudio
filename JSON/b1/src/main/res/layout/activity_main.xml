@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnReadJson"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Read JSON" />
+
+        <!-- Nguyen Van A -->
+
+        <TextView
+            android:id="@+id/txtTen_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên: " />
+
+        <TextView
+            android:id="@+id/txtTuoi_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tuổi: " />
+
+        <TextView
+            android:id="@+id/txtLevel_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trình độ: " />
+
+        <TextView
+            android:id="@+id/txtSalary_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lương: " />
+
+        <TextView
+            android:id="@+id/txtGioitinh_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Giới tính: " />
+
+        <TextView
+            android:id="@+id/txtInterests_A"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sở thích: " />
+
+
+        <!-- Nguyen Van B -->
+        <TextView
+            android:id="@+id/txtTen_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tên: " />
+
+        <TextView
+            android:id="@+id/txtTuoi_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tuổi: " />
+
+        <TextView
+            android:id="@+id/txtLevel_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Trình độ: " />
+
+        <TextView
+            android:id="@+id/txtSalary_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lương: " />
+
+        <TextView
+            android:id="@+id/txtGioitinh_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Giới tính: " />
+
+        <TextView
+            android:id="@+id/txtInterests_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sở thích: " />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hoa_don1"
+        android:title="Hóa Đơn Bán Hàng" />
+    <item
+        android:id="@+id/lien_he1"
+        android:title="Liên Hệ Khách Hàng" />
+    <item
+        android:id="@+id/cham_soc1"
+        android:title="Chăm Sóc Khách Hàng" />
+    <item
+        android:id="@+id/thoat1"
+        android:title="Thoát" />
+</menu>

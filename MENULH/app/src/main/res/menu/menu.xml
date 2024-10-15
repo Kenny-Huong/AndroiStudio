@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Hương nè" />
+    <item android:title="Hướng be" />
+    <item android:title="Ánh Hương" />
+    <item android:title="Hương đáng yêu" />
+</menu>

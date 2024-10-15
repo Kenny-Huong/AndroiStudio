@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/hoadon"
+        android:title="Hoa Don Ban Hang" />
+    <item
+        android:id="@+id/lienhe"
+        android:title="Lien He Voi KH" />
+    <item
+        android:id="@+id/cskh"
+        android:title="Cham Soc Khach Hang" />
+    <item
+        android:id="@+id/thoat"
+        android:title="Thoat" />
+</menu>
